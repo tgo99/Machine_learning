@@ -43,4 +43,4 @@ The goals of this repository are to:
 - Build clean, well-documented, and reproducible code
 - Start developing a portfolio of applied data science and machine learning projects
 
-All code was written independently, without reusing solutions from the course, to demonstrate real understanding and hands-on capability.
+All code in this repository was rewritten from scratch based on the concepts and assignments from the Machine Learning with Python course (Coursera, IBM), with the goal of reinforcing my understanding and building practical coding skills.
